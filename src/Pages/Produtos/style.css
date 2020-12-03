@@ -1,0 +1,9 @@
+.produtos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.categoria{
+    margin-left: -30px;
+}

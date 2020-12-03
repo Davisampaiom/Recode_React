@@ -1,0 +1,21 @@
+
+#box_produtos{
+  
+    display: flex;
+    flex-direction: column;
+
+    width: 170px;
+    height: auto;
+    font-size: 75%;
+   
+    margin-right: 2%;
+    margin-left: 5%;
+    justify-content: center;
+    
+    
+    
+}
+
+#box_produtos img{
+    width: 150px;
+}
